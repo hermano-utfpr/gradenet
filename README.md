@@ -26,30 +26,35 @@ Ao carregar os containers em um segundo momento, poderá ocorrer falha do "cgid"
 
 **Explorando o ambiente:** 
 
-Avisos: Trata-se de um simples mural de avisos em geral.
+**Avisos:** Trata-se de um simples mural de avisos em geral.
 
-Atividades: Para disponibilizar trabalhos, exercícios ou avaliações, com data limite e notas.
+**Atividades:** Para disponibilizar trabalhos, exercícios ou avaliações, com data limite e notas.
 
-Testes: Permite criar testes objetivos com a possibilidade de classificar os que obtiveram melhor desempenho em um ranking.
+**Testes:** Permite criar testes objetivos com a possibilidade de classificar os que obtiveram melhor desempenho em um ranking.
 
-Perguntas: Onde professor e alunos podem postar perguntas e respostas assim como um fórum.
+**Perguntas:** Onde professor e alunos podem postar perguntas e respostas assim como um fórum.
 
-Notas: Soma simples das notas das atividades corrigidas.
+**Notas:** Soma simples das notas das atividades corrigidas.
 
-Sobre: Detalhes do ambiente e permite alterar as configurações gerais.
+**Sobre:** Detalhes do ambiente e permite alterar as configurações gerais.
 
-Calendário: Para auxiliar os usuários com as datas importantes da disciplina.
+**Calendário:** Para auxiliar os usuários com as datas importantes da disciplina.
 
-Anotações: Anotações particulares dos usuários.
+**Anotações:** Anotações particulares dos usuários.
 
-Arquivos: Armazenamento particular de arquivos dos usuários.
+**Arquivos:** Armazenamento particular de arquivos dos usuários.
 
-Materiais: Para disponibilizar material de estudo para os alunos.
+**Materiais:** Para disponibilizar material de estudo para os alunos.
 
-Usuários: Gerência de usuários do ambiente.
+**Usuários:** Gerência de usuários do ambiente.
 
 **Algumas capturas de tela:**
 
+![](capturas/gn_01.png)
+
+![](capturas/gn_02.png)
+
+[Mais capturas ...](capturas/)
 
 **Créditos:**
 
