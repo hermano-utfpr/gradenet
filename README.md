@@ -2,6 +2,8 @@
 
 Este projeto hospeda um Ambiente Virtual de Ensino que comecei a desenvolver em 2001 quando ainda era acadêmico. Na década de 2000 o **GradeNet** foi utilizado por alguns professores da Unicentro e da Faculdade Campo Real - Guarapuava - PR. Na sequência fiz algumas adaptações e até recentemente eu estava utilizando para ministrar aulas na UTFPR. Resolvi então disponibilizar gratuitamente para quem interessar (sob a Licença MIT), talvez necessite de ajustes, o código-fonte precisa ser melhorado (*mesmo ;P*), mas quem sabe do modo que está pode ser útil para auxiliar em minicursos ou disciplinas de breve duração.
 
+* * * 
+
 **Passo-a-passo de como rodar o GradeNet:**
 
 ```
@@ -23,6 +25,8 @@ Ao carregar os containers em um segundo momento, poderá ocorrer falha do "cgid"
 *Address already in use / cgid daemon failed to initialize.* 
 
 `docker-compose restart`
+
+* * * 
 
 **Explorando o ambiente:** 
 
@@ -48,6 +52,8 @@ Ao carregar os containers em um segundo momento, poderá ocorrer falha do "cgid"
 
 **Usuários:** Gerência de usuários do ambiente.
 
+* * * 
+
 **Algumas capturas de tela:**
 
 ![](capturas/gn_01.png)
@@ -57,6 +63,8 @@ Ao carregar os containers em um segundo momento, poderá ocorrer falha do "cgid"
 ![](capturas/gn_02.png)
 
 [Mais capturas ...](capturas/)
+
+* * * 
 
 **Créditos:**
 
