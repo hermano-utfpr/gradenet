@@ -1,0 +1,32 @@
+version: "3.8"
+
+services:
+
+  db:
+    build: ./db
+    environment:
+      MYSQL_ROOT_PASSWORD: root_123
+      MYSQL_DATABASE: gradenet
+      MYSQL_USER: gradenet
+      MYSQL_USER_HOST: "%"
+      MYSQL_PASSWORD: gradenet_123
+    volumes:
+      - "./db/data/:/var/lib/mysql/"
+    networks:
+      - net
+
+  web:
+    build: ./web
+    depends_on:
+      - db
+    ports:
+      - "8080:80"
+    volumes:
+      - "./web/www:/var/www/html/"
+      - "./web/pm:/usr/local/lib/site_perl"
+      - "./web/log:/var/log/apache2/"
+    networks:
+      - net
+
+networks:
+  net:

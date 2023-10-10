@@ -1,0 +1,6 @@
+[mysqld]
+default_authentication_plugin=mysql_native_password
+sql_mode=''
+skip-character-set-client-handshake
+collation-server=latin1_general_ci
+character-set-server=latin1
