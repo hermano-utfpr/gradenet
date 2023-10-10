@@ -18,7 +18,7 @@ Acesse via navegador: `http://localhost:8080/`
 
 Um problema e a sua solução:
 
-Ao carregar os containers em um segundo momento, poderá ocorrer falha do "cgid", para resolver basta reiniciar:
+Ao carregar os containers, em um segundo momento, poderá ocorrer falha do "cgid", para resolver basta reiniciar:
 
 `egrep cgid web/log/error.log`
 
