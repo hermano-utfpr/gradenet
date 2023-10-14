@@ -68,7 +68,9 @@ Ao carregar os containers, em um segundo momento, poderá ocorrer falha do "cgid
 
 **Créditos:**
 
-[Especialização - Trabalho de Conclusão de Curso.](http://repositorio.ufla.br/jspui/bitstream/1/9549/1/MONOGRAFIA_Gradanet%20Ambiente%20virtual%20de%20apoio%20ao%20ensino.pdf)
+[Especialização: Trabalho de Conclusão de Curso.](http://repositorio.ufla.br/jspui/bitstream/1/9549/1/MONOGRAFIA_Gradanet%20Ambiente%20virtual%20de%20apoio%20ao%20ensino.pdf)
+
+[Artigo: Abordagem comparando Moodle e GradeNet](https://revistas.unicentro.br/index.php/RECEN/article/view/710)
 
 Vectors and icons by [SVG Repo](https://www.svgrepo.com).
 
