@@ -1,6 +1,6 @@
 # GradeNet - Ambiente Virtual de Apoio ao Ensino
 
-Este projeto hospeda um Ambiente Virtual de Ensino que comecei a desenvolver em 2001 quando ainda era acadêmico. Na década de 2000 o **GradeNet** foi utilizado por alguns professores da Unicentro e da Faculdade Campo Real - Guarapuava - PR. Na sequência fiz algumas adaptações e até recentemente eu estava utilizando para ministrar aulas na UTFPR. Resolvi então disponibilizar gratuitamente para quem interessar (sob a Licença MIT), talvez necessite de ajustes, o código-fonte precisa ser melhorado (*mesmo ;P*), mas quem sabe do modo que está pode ser útil para auxiliar em minicursos ou disciplinas de breve duração.
+Este repositório hospeda um Ambiente Virtual de Ensino que comecei a desenvolver em 2001 quando ainda era acadêmico. Na década de 2000 o **GradeNet** foi utilizado por alguns professores da Unicentro e da Faculdade Campo Real - Guarapuava - PR. Na sequência fiz algumas adaptações e até recentemente eu estava utilizando para ministrar aulas na UTFPR. Resolvi então disponibilizar gratuitamente para quem interessar (sob a Licença MIT), talvez necessite de ajustes, o código-fonte precisa ser melhorado (*mesmo ;P*), mas quem sabe do modo que está pode ser útil para auxiliar em minicursos ou disciplinas de breve duração.
 
 * * * 
 
@@ -78,3 +78,8 @@ Se eu puder e souber como ajudar, só contatar.
 
 Prof. Hermano
 
+* * * 
+
+Se este projeto foi útil de alguma maneira. Que acha de pagar-me um café?! Obrigado :)
+
+Pix: ![](pix.jpg)
