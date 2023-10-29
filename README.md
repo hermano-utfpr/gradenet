@@ -82,4 +82,6 @@ Prof. Hermano
 
 Se este projeto foi útil de alguma maneira. Que acha de pagar-me um café?! Obrigado :)
 
-Pix: ![](pix.jpg)
+Pix: 
+
+![](pix.jpg)
